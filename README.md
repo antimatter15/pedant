@@ -33,7 +33,17 @@ The future that drives the vision of this project is one more traditionally long
 
 That future is the one with augmented reality, head up displays, nerve and cranial implants. The land of Google Glass, SixthSense, eyeTap and other projects kept in high regard.
 
-But my project doesn't represent a "real" foray into the subject.
+But my project doesn't represent a "real" foray into the subject. At least, I don't think of it as something which will actually advance the state of augmented reality, or something which brings novel ideas for application in future endeavors of the kind. No, it's just a transitional and possibly regressive application of a few random ideas.
+
+### huh?
+
+Augmented reality is classically thought of as something which will develop in some rather straightforward process of continuous improvement, starting with a bulky prototype and ending up as something sleek and minimally wearable, if not implanted. But this progression poses a problem, namely that bulky prototypes are bulky and there's a substantial social and aesthetic reason to *not* wear them.
+
+But before talking about how to resolve it, it's important to think about what exactly augmented reality does and how there may be alternate means of achieving (albeit prorated quantities of) that goal. 
+
+Augmented reality, as its name suggests (I'm quite big on tautology, or at least I guess that's what you would think from reading this so far), is any means that augments reality, but of course that definition isn't useful at all because it doesn't define how a screwdriver *doesn't* augment reality in this sense. Instead, augmented reality (in the Project Glass sense, in particular) means something which enables low-overhead access to information.
+
+What does it mean to have overhead? In this circumstance, overhead means the cognitive and physical necessity to change whatever someone's doing in order to access information. Note that this project is dedicated not to the 
 
 ## The Name
 
